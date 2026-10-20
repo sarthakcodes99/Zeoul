@@ -1,6 +1,7 @@
 const Footer = () => {
     return(
         <div>
+            
                 <footer>
                 <div className='flex justify-center text-4xl font-bold bg-black text-[#ededed] p-4'>
                 <h1>Why Choose Us?</h1>
